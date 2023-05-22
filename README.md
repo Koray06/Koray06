@@ -33,11 +33,11 @@ I am a versatile test expert with skills in both automation and manual testing. 
 [postgresql]: https://www.postgresql.org/
 [sql]: https://www.w3schools.com/sql/
 [html]: https://www.w3schools.com/html/
-[github]: https://github.com/zelihaznk
+[github]: https://github.com/koray06
 [cucumber]: https://cucumber.io/
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
 [testng]: https://testng.org/doc/
-[linkedin]: https://www.linkedin.com/in/zelihaoznuk
+[linkedin]: https://www.linkedin.com/in/Tolga Güney
 
 <h3> Tools I Use:</h3>
 
