@@ -37,7 +37,7 @@ I am a versatile test expert with skills in both automation and manual testing. 
 [cucumber]: https://cucumber.io/
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
 [testng]: https://testng.org/doc/
-[linkedin]: https://www.linkedin.com/in/Tolga Güney
+[linkedin]: https://www.linkedin.com/in/TolgaGüney
 
 <h3> Tools I Use:</h3>
 
@@ -75,8 +75,8 @@ I am a versatile test expert with skills in both automation and manual testing. 
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zelihaznk&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelihaznk&layout=compact&langs_count-16&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=koray06&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koray06&layout=compact&langs_count-16&theme=dracula"/>
 
  
  <div align="center">
