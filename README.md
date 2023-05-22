@@ -80,10 +80,10 @@ I am a versatile test expert with skills in both automation and manual testing. 
 
  
  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zelihaznk&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=TolgaGuney&&style=flat-square" align="center" />
 </div> 
 
 
 
-![snake gif](https://github.com/zelihaznk/zelihaznk/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Koray06/Koray06/blob/output/github-contribution-grid-snake.gif)
 
