@@ -2,7 +2,7 @@
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Automation+Engineer+%7C+Turkey;I+am+Software+Test+Engineer.;I+am+sharing+my+projects+in+here;I+suggest+you+review+it+to+know+about+me+👩🏻‍💻;)  
 
-<h2>My name is Samet 👩🏻‍💻 </h2> 
+<h2>My name is Koray 👩🏻‍💻 </h2> 
 
 <h3>About me: </h3> 
 I am a versatile test expert with skills in both automation and manual testing. On the automation side, I possess the ability to effectively use tools such as Selenium WebDriver, JUNIT, TestNG, and Cucumber to create robust and stable automation test scenarios. This enables me to accelerate test processes, automate repetitive tests, and enhance overall efficiency. Additionally, I have attained expertise in manual testing, where I excel at designing test scenarios and managing test processes through my analytical capabilities. With a flexible, efficient, and quality-focused approach, I am here to meet the testing needs of projects.
