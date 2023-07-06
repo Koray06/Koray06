@@ -1,22 +1,18 @@
-### Hi there 👋, my name is Koray
-#### QA Specialist
- I am a Test Automation Engineer with 2 years of comprehensive experience in the full software development lifecycle, including UI, API, and Database testing. I have expertise in using Java, Selenium WebDriver, JUnit, TestNG, Maven, Jenkins, Gherkin, Cucumber BDD, POM, and Core Java. I am well-versed in Agile and Scrum methodologies, and I use CI/CD tools like Jenkins effectively.
 
-Skills: JAVA/ SELENİUM/ JUnit/TestNG/ Maven/Jenkins/Gherkin/Cucumber
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Koray06&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Koray06&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Koray06&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on this page. 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Koray06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Koray06)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Koray06&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koray06)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Koray06&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Koray06)  
-
-![GitHub metrics](https://metrics.lecoq.io/Koray06)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Koray06)  
-
-![Profile views](https://gpvc.arturio.dev/Koray06)  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
