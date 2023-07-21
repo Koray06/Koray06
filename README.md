@@ -12,7 +12,7 @@ I'm a versatile and adaptable professional with a diverse background in music an
 - 🎵 I'm also co-founder of Algorave Ankara, a community that explores live coding music and organizes performances and workshops
 - 🌱 I'm currently learning more about software testing methodologies and best practices
 - 💬 Ask me about anything related to music or software testing
-- 📫 How to reach me: koray.oke@hotmail.com or lwww.linkedin.com/in/koray-oke-030863235
+- 📫 How to reach me: koray.oke@hotmail.com or www.linkedin.com/in/koray-oke-030863235
 - ⚡ Fun fact: I play the oboe and the saxophone
 <br />
 
@@ -45,7 +45,7 @@ I'm a versatile and adaptable professional with a diverse background in music an
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quatronostro&layout=compact&theme=github_dark#center)](https://quatronostro-readme-stats.vercel.app)
 
-[![Koray's GitHub stats](https://github-readme-stats.vercel.app/api?username=quatronostro&show_icons=true&theme=github_dark#center)](https://github.com/anuraghazra/github-readme-stats)
+[![Koray's GitHub stats](https://github-readme-stats.vercel.app/api?username=quatronostro&show_icons=true&theme=github_dark#center)](https://github.com/Koray06/Koray06/github-readme-stats)
 
 <!--
 ![quatronostro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=quatronostro&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=false&hide_border=true)
