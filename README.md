@@ -45,8 +45,4 @@ I'm a versatile and adaptable professional with a diverse background in music an
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quatronostro&layout=compact&theme=github_dark#center)](https://quatronostro-readme-stats.vercel.app)
 
-[![Koray's GitHub stats](https://github-readme-stats.vercel.app/api?username=quatronostro&show_icons=true&theme=github_dark#center)](https://github.com/Koray06/Koray06/github-readme-stats)
 
-<!--
-![quatronostro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=quatronostro&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=false&hide_border=true)
--->
