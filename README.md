@@ -12,7 +12,7 @@ I'm a versatile and adaptable professional with a diverse background in music an
 - 🎵 I'm also co-founder of Algorave Istanbul, a community that explores live coding music and organizes performances and workshops
 - 🌱 I'm currently learning more about software testing methodologies and best practices
 - 💬 Ask me about anything related to music or software testing
-- 📫 How to reach me: berke.bar@hotmail.com or linkedin.com/in/berke-baramuk
+- 📫 How to reach me: berke.bar@hotmail.com or lwww.linkedin.com/in/koray-oke-030863235
 - ⚡ Fun fact: I play the oboe and the saxophone
 <br />
 
